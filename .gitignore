@@ -153,10 +153,4 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-.idea/
-ReadImage.py
-WrtieToExcel.py
-main.py
-main.rar
-temp_main.ipynb
-test-data/
+.idea
